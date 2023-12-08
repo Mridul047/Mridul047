@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi visitor 👋 !!
+## Click below to check my blog site !
 [Tech_Hours](https://mridul047.github.io/mycodethesaurus.github.io/)
 <!--
 **Mridul047/Mridul047** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
