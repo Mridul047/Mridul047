@@ -39,4 +39,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
+[![](https://visitcount.itsvg.in/api?id=Mridul047&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
 ###
