@@ -6,7 +6,7 @@
 
 ## Click below to check my blog site !
 [Tech_Hours](https://mridul047.github.io/mycodethesaurus.github.io/)
-
+[![](https://visitcount.itsvg.in/api?id=Mridul047&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
 ###
 
 <h2 align="left">About me</h2>
@@ -39,5 +39,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=Mridul047&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
 ###
